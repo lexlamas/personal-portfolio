@@ -65,7 +65,7 @@ header h1 {
 
 .about-me {
   display: flex;
-  background: linear-gradient(rgba(186, 215, 242, 0.5),rgba(186, 215, 242, 0.5)),url(./space.jpg);
+  background: linear-gradient(rgba(186, 215, 242, 0.5),rgba(186, 215, 242, 0.5)),url(./hex-sky.jpg);
   background-size: cover;
   background-position: center center;
   padding-top: 142px;
